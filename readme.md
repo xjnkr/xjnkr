@@ -5,7 +5,7 @@
 Student in South Korea
 
 ### Connect with me:
-[<img src='https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/xjnkr) [<img src='https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ko-fi&logoColor=white' alt='website' height='30'>](https://xjn.kr) 
+[<img src='https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white' alt='github' height='30'>](https://github.com/xjnkr) [<img src='https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=ko-fi&logoColor=white' alt='website' height='30'>](https://anf2837djh.vercel.app/) 
 
 ### Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-121011?style=for-the-badge&logo=python&logoColor=255E63)
